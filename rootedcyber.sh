@@ -2,7 +2,7 @@
 #bash depl*
 a() {
 git clone https://github.com/caritemanon/terpal/
-cd Ultroid
+cd terpal
 pip install --upgrade pip
 pip3 install -r req*
 pip3 install -r res*/st*/op*
